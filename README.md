@@ -4,3 +4,6 @@ Beard Utility is a heterogeneous collection of utilities. At the moment  create 
 not the purpose.
 
 > Soon on maven
+
+
+### See [Documentation here](https://github.com/beardutility/beard-utility/wiki)
